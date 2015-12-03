@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://biz.szse.cn/mobile/appresources/nowoa/package/ios/NMOAprd.ipa</string>
+					<string>https://github.com/s1monHuang/NMOA/blob/master/NMOAstg.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>移动OA</string>
+				<string>办公易</string>
 			</dict>
 		</dict>
 	</array>
