@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.szse.moa</string>
+				<string>com.szse.nmoastg</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
