@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.10.254:6789/nmoa/NMOAstg.ipa</string>
+					<string>https://raw.githubusercontent.com/s1monHuang/NMOA/master/NMOA.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
