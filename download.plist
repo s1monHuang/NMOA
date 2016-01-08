@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.szse.moa</string>
+				<string>com.szse.nmoastg</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>移动OA</string>
+				<string>易办公</string>
 			</dict>
 		</dict>
 	</array>
