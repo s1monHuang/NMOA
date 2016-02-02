@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.10.254:5678/nmoa/NMOAstg.ipa</string>
+					<string>http://192.168.10.254:6789/nmoa/NMOAstg.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
